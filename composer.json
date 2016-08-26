@@ -1,0 +1,18 @@
+{
+    "name": "xi4oh4o/alimns",
+    "description": "Aliyun MNS",
+    "type": "library",
+    "authors": [
+        {
+            "name": "xi4oh4o",
+            "email": "xi4oh4o@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": ["mns-autoloader.php"],
+        "psr-0": {
+            "AliyunMNS": "./"
+        }
+    }
+}
